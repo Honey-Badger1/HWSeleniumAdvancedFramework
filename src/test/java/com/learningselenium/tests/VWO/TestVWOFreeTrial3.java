@@ -1,7 +1,6 @@
 package com.learningselenium.tests.VWO;
 
 import com.learningselenium.pages.pageObjectModel.VWO.FreeTrialPage;
-import com.learningselenium.pages.pageObjectModel.VWO.LoginPage;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import org.openqa.selenium.WebDriver;
